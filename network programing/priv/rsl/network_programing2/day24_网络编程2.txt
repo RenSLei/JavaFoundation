@@ -1,0 +1,20 @@
+24天-01-网络编程(TCP-上传图片)   ----UpLoadPic.java
+
+24天-02-网络编程(TCP-客户端并发上传图片)   ----PicUpLoadByThread.java
+
+24天-03-网络编程(TCP-客户端并发登录)   ----UserLogin.java
+
+24天-04-网络编程(浏览器客户端-自定义服务端)   ----ServerDemo.java
+
+24天-05-网络编程(浏览器客户端-Tomcat服务端)   ----TomcatDemo.java
+
+24天-06-网络编程(自定义浏览器-Tomcat服务端)   ----MyIE.java
+
+24天-07-网络编程(自定义图形界面浏览器-Tomcat服务端)   ----MyIEByGUI.java
+
+24天-08-网络编程(URL-URLConnection)   ----MyIEByGUI2.java   ----URLConnectionDemo.java   ----URLDemo.java
+
+24天-09-网络编程(小知识点)   ----小知识点Demo.java
+
+24天-10-网络编程(域名解析)cd   ----域名解析Demo.java
+

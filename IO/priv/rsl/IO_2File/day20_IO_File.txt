@@ -1,0 +1,28 @@
+01-File概述   ----FileDemo.java
+
+02-04-File对象功能-创建和删除、判断、获取file.txt   ----
+
+   ----FileDemo.java   ----haha.java
+
+05、06-IO流(File对象功能-文件列表)   ----FileDemo2.java
+
+07-IO流(列出目录下所有内容-递归)   ----FileDemo3.java
+
+08-IO流(列出目录下所有内容-带层次)   ----FileDemo4.java
+
+09-IO流(删除带内容的目录)   ----RemoveDir.java
+
+10-IO流(创建java文件列表)   ----JavaFileList.java
+
+11、12-IO流(Properties简述、存取)   ----PropertiesDemo.java
+
+13-IO流(Properties存取配置文件)   ----
+
+14-IO流(Properties练习)   ----RunTimeDemo.java
+
+15-IO流(PrintWriter)   ----PrintStreamDemo.java
+
+16-IO流(合并流)   ----SequenceDemo.java
+
+17-IO流(切割文件)   ----SplitDemo.java
+

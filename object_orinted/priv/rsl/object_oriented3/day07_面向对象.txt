@@ -1,0 +1,13 @@
+01-02继承   ---- 继承.png
+
+4子父类中变量的特点   ----ExtendsDemo.java
+
+5子父类中函数的特点   ----ExtendsDemo2.java
+
+6子父类中构造函数的特点   ----ExtendsDemo3.java
+
+8-10抽象测试   ----AbstractTest.java
+
+11模板方法模式   ----GetTimeDemo.java
+
+12-15接口   ----InterfaceDemo.java

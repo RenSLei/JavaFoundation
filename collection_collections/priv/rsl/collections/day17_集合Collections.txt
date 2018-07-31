@@ -1,0 +1,22 @@
+第17天-1-集合(Collections-sort)   ----CollectionsDemo.java
+
+第17天-10-集合(可变参数)   ----
+
+第17天-11-集合(静态导入)   ----StaticImport.java
+
+第17天-2-集合(Collections-max)   ----CollectionsDemo2.java
+
+第17天-3-集合(Collections-binarySearch)   ----CollectionsBinarySearch.java
+
+第17天-4-集合(Collections-替换反转)   ----CollectionsDemo.java
+
+第17天-5-集合(Collections-reverseOrder)   ----CollectionsDemo.java
+
+第17天-6-集合(Collections-SynList)   ----
+
+第17天-7-集合(Arrays)   ----ArraysDemo.java
+
+第17天-8-集合(集合转成数组)   ----CollectionToArrayDemo.java
+
+第17天-9-集合(增强for循环)   ----ForEachDemo.java
+

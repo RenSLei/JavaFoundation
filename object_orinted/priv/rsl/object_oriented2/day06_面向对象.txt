@@ -1,0 +1,14 @@
+01-03Static   ----MainDemo.java   ----StaticDemo.java
+
+04static应用_Tools   ----ArrayTool.java   ----ArrayToolDemo.java
+
+05帮助文档   ----ArrayTool.java
+
+06静态代码块   ----StaticCodeDemo.java   ----StaticCodeDemo1.java   ----StaticCodeDemo2.java
+
+07对象的初始化过程   ----PersonDemo.java
+
+09单例设计模式   ----SingleDemo.java
+
+10单例设计模式方式二   ----
+

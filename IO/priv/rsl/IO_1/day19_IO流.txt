@@ -1,0 +1,40 @@
+01-IO流(BufferedWriter)   ----BufferedWriterDemo.java
+
+02-IO流(BufferedReader)   ----BufferReaderDemo.java
+
+03-IO流(通过缓冲区复制文本文件)   ----CopTextByBuf.java
+
+04-IO流(readLine的原理图例)   ----
+
+05-IO流(MyBufferedReader)   ----MyBufferedReaderDemo.java
+
+06-IO流(装饰设计模式)   ----FunctionDemo.java
+
+07-IO流(装饰和继承的区别)   ----装饰和继承的区别.java
+
+08-IO流(自定义装饰类)   ----MyBufferedReaderDemo.java
+
+09-IO流(LineNumberReader)   ----LineNumberReaderDemo.java
+
+10-IO流(MyineNumberReader)   ----MyLineNumberReaderDemo.java   ----MyLineNumberReaderDemo2.java
+
+11-IO流(字节流File读写操作)   ----FileStream.java
+
+12-IO流(拷贝图片)   ----CopyPic.java
+
+13、14-IO流(字节流的缓冲区、自定义字节流的缓冲区-read和write的特点)   ----CopyMp3.java   ----MyBufferedInputStream.java
+
+15-IO流(读取键盘录入)   ----ReadIn.java
+
+16、17-IO流(读取转换流、写入转换流)   ----TransStreamDemo.java
+
+18-IO流(流操作规律-1)   ----TransStreamDemo2.java
+
+19-IO流(流操作规律-2)   ----
+
+20-IO流(改变标准输入输出设备)   ----BufferedWriterDemo.java   ----TransStreamDemo2.java
+
+21-IO流(异常的日志信息)   ----ExceptionInfo.java
+
+22-IO流(系统信息)   ----SystemInfo.java
+
